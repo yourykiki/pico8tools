@@ -326,7 +326,7 @@ Picocraft is a Warcraft III demake for PICO-8, featuring:
 
 These tools were built to create picocraft's animations and maps, and are now released as standalone utilities for the broader PICO-8 community.
 
-👉 [Play Picocraft on Lexaloffle BBS](https://www.lexaloffle.com/bbs/?pid=165229)
+👉 [Play Picocraft on Lexaloffle BBS](https://www.lexaloffle.com/bbs/?pid=165229) or [Itch.io](https://yourykiki.itch.io/picocraft)
 
 ---
 
